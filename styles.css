@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 
-div p:nth-child(2n-1){
+div .selector:nth-child(2n-1){
 	font-size:32px;
 	color:#00f;
 	background-color:#eee;
